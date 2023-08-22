@@ -1,4 +1,4 @@
-### Spark Funds Data Analysis Project
+# Spark Funds Data Analysis Project
 
 This repository contains the code and analysis for the Spark Funds Data Analysis project. The project aims to analyze global investment trends and identify the best sectors and countries for investment.
 
@@ -50,9 +50,9 @@ For visualizations and plots, please refer to the `plots/` directory. Here are t
 #### Result
 
 <p align="center">
-  <img src="Picture1.jpg" alt="Description of Picture 1">
-  <img src="Picture2.jpg" alt="Description of Picture 2">
-  <img src="Picture3.jpg" alt="Description of Picture 3">
+  <img src="Picture1.jpg" alt="Description of Picture 1 width="200" height="200"">
+  <img src="Picture2.jpg" alt="Description of Picture 2 width="200" height="200"">
+  <img src="Picture3.jpg" alt="Description of Picture 3 width="200" height="200"">
 </p>
 
 
